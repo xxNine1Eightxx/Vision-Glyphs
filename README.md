@@ -25,7 +25,7 @@ A comprehensive object detection framework that combines traditional R-CNN appro
 
 ```bash
 # Clone and setup
-git clone https://github.com/your-username/vision-glyphs.git
+git clone https://github.com/xxNine1Eightxx/vision-glyphs.git
 cd vision-glyphs
 
 # Auto-setup (recommended)
@@ -105,9 +105,9 @@ If you use Vision-Glyphs in your research, please cite:
 ```bibtex
 @software{vision_glyphs2024,
   title = {Vision-Glyphs: Symbolic Object Detection Suite},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/your-username/vision-glyphs},
+  author = {Nine1Eight},
+  year = {2025},
+  url = {https://github.com/xxNine1Eightxx/vision-glyphs},
   note = {Glyph-based architecture for R-CNN and Faster R-CNN implementations}
 }
 ```
